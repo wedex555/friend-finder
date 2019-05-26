@@ -34,7 +34,7 @@ This app utilizes Heroku, Node.js, Express.js, path, body-parser, and Twitter Bo
 <br>
 <img width="1647" alt="one" src="https://user-images.githubusercontent.com/46644726/58385122-3a3bc000-7fa0-11e9-8532-3ed56c1bdcda.png">
 
-![Sign In](images/one)<br>
+
 2: Name is required, apload user's pic and fill the 10 questions survey
 <br>
 <img width="1659" alt="two" src="https://user-images.githubusercontent.com/46644726/58385154-ca7a0500-7fa0-11e9-9eb3-38f41124b40f.png">
