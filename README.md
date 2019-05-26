@@ -30,19 +30,6 @@ Technologies Used:
 This app utilizes Heroku, Node.js, Express.js, path, body-parser, and Twitter Bootstrap
 
 
-# Rock Paper Scissors Multiplayer!
-live demo https://wedex555.github.io/Rock-Paper-Scissors/.
-
-This app is an online version of the game everyone loves...Rock Paper Scissors!
-Technologies include:
-- HTML
-- CSS
-- Javascript
-- JQuery
-- Google Firebase
-
-Here's how the game works!
-
 1: Whenever someone comes to the page, it asks them for their name.
 <br>
 ![Sign In](assets/images/RPS_Homepage.png)<br>
