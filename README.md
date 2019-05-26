@@ -35,21 +35,12 @@ This app utilizes Heroku, Node.js, Express.js, path, body-parser, and Twitter Bo
 <img width="1647" alt="one" src="https://user-images.githubusercontent.com/46644726/58385122-3a3bc000-7fa0-11e9-8532-3ed56c1bdcda.png">
 
 ![Sign In](images/one)<br>
-2: .
+2: Name is required, apload user's pic and fill the 10 questions survey
 <br>
-![Player Sign In](assets/images/RPS_P1_Signin.png)<br>
-3: Once two people have joined, the game starts and player 1's box highlights and they may choose their item.
+<img width="1659" alt="two" src="https://user-images.githubusercontent.com/46644726/58385154-ca7a0500-7fa0-11e9-9eb3-38f41124b40f.png">
+
 <br>
-![Game Start](assets/images/RPS_P1_Choices.png)<br>
-4: After player 1 choooses, their choice is hidden from player 2 and player 2's box highlights and they can make their choice.
+3: After user fills the survey the app matches you with a friend with similar characters stored in the data base.
 <br>
-![Player 2 Turn](assets/images/RPS_P2_Choices.png)<br>
-5: Once both players have made their choices, both answers are shown to everyone and the winner is announced in the middle!
-<br>
-![Results](assets/images/RPS_Results.png)<br>
-6: Finally, the round resets and the player stats are updated at the bottom of each box according to the result.
-<br>
-![Game Reset](assets/images/RPS_Updated_Scores.png)<br>
-Bonus: This app also features a chat section at the bottom of the page where the players can taunt each other!
-<br>
-![Chat](assets/images/RPS_Chat.png)<br>
+<img width="1636" alt="three" src="https://user-images.githubusercontent.com/46644726/58385178-2c3a6f00-7fa1-11e9-8fca-6293371161ba.png">
+
