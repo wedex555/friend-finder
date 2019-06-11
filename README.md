@@ -7,7 +7,7 @@ Friend Finder is a full-stack site and meant to imitate a simple dating applicat
 To view homework instructions click here
 
 Instructions:
-Friend Finder is deployed to Heroku! Visit: https://fierce-mountain-37682.herokuapp.com/ to demo the application and find a friend with the greatest compatibility!
+Friend Finder is deployed to Heroku! Visit:  https://friend-f.herokuapp.com/ to demo the application and find a friend with the greatest compatibility!
 
 To Run Locally:
 To Install Friend Finder and run locally:
